@@ -1,3 +1,4 @@
+
 apiVersion: v1
 kind: PersistentVolumeClaim
 metadata:
@@ -8,4 +9,5 @@ spec:
   storageClassName: managed-premium
   resources:
     requests:
-      storage: 5Gi      
+      storage: 5Gi
+
