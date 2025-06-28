@@ -18,4 +18,5 @@ spec: # Dictionary
           image: stacksimplify/kubenginx:2.0.0
           ports: 
             - containerPort: 80  
-    
+
+
