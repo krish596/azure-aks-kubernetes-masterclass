@@ -8,7 +8,7 @@ metadata:
 spec:
   ingressClassName: nginx
   rules:
-    - host: eapp1.kubeoncloud.com
+    - host: eapp1.kr7348202.online
       http:
         paths:
           - path: /
